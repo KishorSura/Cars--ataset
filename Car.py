@@ -10,19 +10,19 @@ import numpy as np
 
 # In[5]:
 
-
+#importing csv_file
 df=pd.read_csv("C:/Users/DELL/Downloads/2. Cars Data1.csv")
 
 
 # In[6]:
 
-
+#first five rows
 df.head()
 
 
 # In[7]:
 
-
+#number of rows and columns
 df.shape
 
 
